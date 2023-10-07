@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm John, a software engineer with a passion for building great products. I specialize in front-end development, but I'm also comfortable working on the back end.
+I'm MD Emon Hossen, a software engineer with a passion for building great products. I specialize in front-end development, but I'm also comfortable working on the back end.
 
 ## Skills
 
@@ -9,19 +9,14 @@ I'm John, a software engineer with a passion for building great products. I spec
 - HTML/CSS
 - Node.js
 - SQL
+- mongoDB
+- Next js
+- express js
+- firebase
 
-## Projects
-
-- [My Portfolio Website](https://www.example.com) - A showcase of my work and skills
-- [My Blog](https://www.example.com/blog) - Articles on web development and software engineering
-
-## Open Source Contributions
-
-- [React](https://github.com/facebook/react/pulls?q=is%3Apr+author%3Ajohn-doe) - I've contributed several bug fixes and improvements to the React codebase.
-- [Node.js](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Ajohn-doe) - I've also contributed a few patches to Node.js.
 
 ## Get in Touch
 
-You can reach me on [Twitter](https://twitter.com/john_doe) or [LinkedIn](https://www.linkedin.com/in/john-doe). Alternatively, you can shoot me an email at john.doe@example.com.
+You can reach me on [Facebook](https://facebook.com/mdemong87) or [LinkedIn](https://www.linkedin.com/in/mdemong87). Alternatively, you can shoot me an email at mdemong87@gmail.com
 
 
